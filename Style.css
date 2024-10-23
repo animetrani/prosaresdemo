@@ -1,10 +1,7 @@
 #Test{
-    color: orange;
-}
-#Test2{
-    color: blue;
+    color: red;
 }
 
-#Test3{
-    color: blue;
+#test2{
+    background-color: red;
 }
